@@ -1,4 +1,4 @@
-# 🔍 Roblox Codes Finder
+# 🔍 Roblox Code Finder
 A tool used to quickly find and store redeemable codes in most Roblox games.
 
 # 📄 About
