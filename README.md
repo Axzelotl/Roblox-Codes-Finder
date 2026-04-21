@@ -17,3 +17,6 @@ In order to **use** the program:
 - Enter the name of the Roblox game you wish to find codes for.
 
 And any **new** codes for the given game will be listed and saved in the "**Saved Codes**" folder.
+
+# 💬 Feedback
+If any bug or an unsupported Roblox game is found, you may submit an [Issue](https://github.com/Axzelotl/Roblox-Code-Finder/issues) and help improve the program.
